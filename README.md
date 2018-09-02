@@ -1,2 +1,1 @@
-# Branding
-Self-branding content and associated files
+![JcBanner](https://raw.githubusercontent.com/Jac21/Branding/master/Logos/JC/Exports/Banners/JcLogoBanner.png)
